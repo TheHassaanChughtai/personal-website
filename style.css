@@ -22,13 +22,8 @@ header {
 
 section {
     float:left;
-    width:70%;
+    width:100%;
     margin-bottom:100px;
-}
-
-aside {
-    width:25%;  
-    float:right;
 }
 
 footer{
@@ -36,4 +31,5 @@ footer{
     padding:50px 0;
     text-align: center;
     clear:both;
+    color:white;
 }
