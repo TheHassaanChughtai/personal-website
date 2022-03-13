@@ -68,6 +68,7 @@ ul {
 
 .header{
     background-color:khaki;
+    min-height: 400px;
 }
 
 .header h1 {
